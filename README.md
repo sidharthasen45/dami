@@ -1,5 +1,3 @@
 # dami
+bhai sab acha hai?
 
-
-hlo
-bhai
