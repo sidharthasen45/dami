@@ -1,0 +1,14 @@
+hi
+
+git config --global user.name "sidharthasen45"
+git config --global user.email "sidharthasenapati82@gmail.com"
+
+git config --global color.ui auto
+
+
+manadatory
+git init
+
+git remote add origin https://github.com/sidharthasen45/dami.git
+
+git pull origin main
