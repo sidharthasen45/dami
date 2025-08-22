@@ -12,3 +12,9 @@ git init
 git remote add origin https://github.com/sidharthasen45/dami.git
 
 git pull origin main
+
+git status
+git add .
+git commit -m "commit message"
+git push
+ 
