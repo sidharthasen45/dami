@@ -18,3 +18,6 @@ git add .
 git commit -m "commit message"
 git push
  
+ git checkout -b "file name"
+ git checkout "file name"
+ 
